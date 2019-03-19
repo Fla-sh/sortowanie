@@ -47,7 +47,7 @@ class Plotting:
             mask = self.data["shape"] == " " + shape
             # print(mask)
             values = self.data[mask]
-            values.plot(kind="line", x="amount", y="time", ax=self.ax, logx=False)
+            values.plot(kind="line", x="amount", y="time", ax=self.ax, logx=True)
             self.legend += shape
         self.save_plot(self.algorithm + "_gather")
         mpl.close()
