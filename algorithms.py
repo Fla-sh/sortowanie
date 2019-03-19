@@ -68,7 +68,7 @@ def quick_sort(data, pivot_type):
             pivot = 0
         elif pivot_type == "r":
             pivot = data_length - 1
-        elif pivot_type == "r":
+        elif pivot_type == "ra":
             pivot = random.randint(0, data_length)
         elif pivot_type == "m":
             pivot = data_length // 2
