@@ -1,0 +1,4 @@
+colored
+matplotlib
+configparser
+numpy
