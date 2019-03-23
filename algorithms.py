@@ -82,7 +82,7 @@ def quick_sort(data, pivot_type):
 
 
 def shell_sort(data):
-    distances = [4, 2, 1]
+    distances = [1923, 851, 323, 178, 53, 23, 7, 2, 1]
     for distance in distances:
         for bias in range(distance):
             sort = insertion_sort(data[bias::distance])

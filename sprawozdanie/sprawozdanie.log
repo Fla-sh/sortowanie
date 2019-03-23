@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2018.12.14)  19 MAR 2019 23:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2018.12.14)  23 MAR 2019 11:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -136,18 +136,18 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 ) (./sprawozdanie.aux)
 \openout1 = `sprawozdanie.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -213,29 +213,29 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Font Info:    Try loading font information for U+msa on input line 20.
+LaTeX Font Info:    Try loading font information for U+msa on input line 22.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 20.
+LaTeX Font Info:    Try loading font information for U+msb on input line 22.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (8.05267pt too wide) in paragraph at lines 24--25
+Overfull \hbox (8.05267pt too wide) in paragraph at lines 26--27
 \T1/cmr/m/n/10 Typ sor-towa-nia sta-bil-nego pole-ga-j¡cy na wyborze na-jm-niej
 szego el-e-mentu spo±ród
  []
 
 
-Overfull \hbox (0.9433pt too wide) in paragraph at lines 24--25
+Overfull \hbox (0.9433pt too wide) in paragraph at lines 26--27
 \T1/cmr/m/n/10 male-j¡-cym nale»y za-mi-ast na-jm-niejszego el-e-mentu wybiera¢
  el-e-ment na-jwi¦kysz.
  []
 
 
-Overfull \hbox (9.5523pt too wide) in paragraph at lines 29--31
+Overfull \hbox (9.5523pt too wide) in paragraph at lines 31--33
 \T1/cmr/m/n/10 Jest to spowodowane potrzeb¡ ci¡gªego wyszuki-wa-nia na-jm-niejs
 zego/najwi¦kszego
  []
@@ -244,7 +244,7 @@ zego/najwi¦kszego
 File: ./graphs/selection_sort_gather.png Graphic file (type png)
 <use ./graphs/selection_sort_gather.png>
 Package pdftex.def Info: ./graphs/selection_sort_gather.png  used on input line
- 41.
+ 43.
 (pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
 [1
 
@@ -252,34 +252,34 @@ Package pdftex.def Info: ./graphs/selection_sort_gather.png  used on input line
 <./graphs/selection_sort_a.png, id=19, 462.528pt x 346.896pt>
 File: ./graphs/selection_sort_a.png Graphic file (type png)
 <use ./graphs/selection_sort_a.png>
-Package pdftex.def Info: ./graphs/selection_sort_a.png  used on input line 47.
+Package pdftex.def Info: ./graphs/selection_sort_a.png  used on input line 49.
 (pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
 <./graphs/selection_sort_v.png, id=20, 462.528pt x 346.896pt>
 File: ./graphs/selection_sort_v.png Graphic file (type png)
 <use ./graphs/selection_sort_v.png>
-Package pdftex.def Info: ./graphs/selection_sort_v.png  used on input line 52.
+Package pdftex.def Info: ./graphs/selection_sort_v.png  used on input line 54.
 (pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
  [2 <./graphs/selection_sort_gather.png> <./graphs/selection_sort_a.png>]
 <./graphs/selection_sort_g.png, id=27, 462.528pt x 346.896pt>
 File: ./graphs/selection_sort_g.png Graphic file (type png)
 <use ./graphs/selection_sort_g.png>
-Package pdftex.def Info: ./graphs/selection_sort_g.png  used on input line 57.
+Package pdftex.def Info: ./graphs/selection_sort_g.png  used on input line 59.
 (pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
 <./graphs/selection_sort_l.png, id=28, 462.528pt x 346.896pt>
 File: ./graphs/selection_sort_l.png Graphic file (type png)
 <use ./graphs/selection_sort_l.png>
-Package pdftex.def Info: ./graphs/selection_sort_l.png  used on input line 62.
+Package pdftex.def Info: ./graphs/selection_sort_l.png  used on input line 64.
 (pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
  [3 <./graphs/selection_sort_v.png> <./graphs/selection_sort_g.png>]
 <./graphs/selection_sort_c.png, id=34, 462.528pt x 346.896pt>
 File: ./graphs/selection_sort_c.png Graphic file (type png)
 <use ./graphs/selection_sort_c.png>
-Package pdftex.def Info: ./graphs/selection_sort_c.png  used on input line 67.
+Package pdftex.def Info: ./graphs/selection_sort_c.png  used on input line 69.
 (pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
 <./graphs/selection_sort_r.png, id=35, 462.528pt x 346.896pt>
 File: ./graphs/selection_sort_r.png Graphic file (type png)
 <use ./graphs/selection_sort_r.png>
-Package pdftex.def Info: ./graphs/selection_sort_r.png  used on input line 72.
+Package pdftex.def Info: ./graphs/selection_sort_r.png  used on input line 74.
 (pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
  [4 <./graphs/selection_sort_l.png> <./graphs/selection_sort_c.png>] [5 <./grap
 hs/selection_sort_r.png>]
@@ -287,15 +287,15 @@ hs/selection_sort_r.png>]
 File: ./graphs/insertion_sort_gather.png Graphic file (type png)
 <use ./graphs/insertion_sort_gather.png>
 Package pdftex.def Info: ./graphs/insertion_sort_gather.png  used on input line
- 91.
+ 93.
 (pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
 <./graphs/insertion_sort_a.png, id=46, 462.528pt x 346.896pt>
 File: ./graphs/insertion_sort_a.png Graphic file (type png)
 <use ./graphs/insertion_sort_a.png>
-Package pdftex.def Info: ./graphs/insertion_sort_a.png  used on input line 96.
+Package pdftex.def Info: ./graphs/insertion_sort_a.png  used on input line 98.
 (pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
  [6 <./graphs/insertion_sort_gather.png>]
-Overfull \hbox (1.74866pt too wide) in paragraph at lines 98--99
+Overfull \hbox (1.74866pt too wide) in paragraph at lines 100--101
 \T1/cmr/m/n/10 Pierwsza cz¦±¢ danych jest ju» wst¦p-nie posor-towana, dlat-ego 
 al-go-rytm wykonuj¦
  []
@@ -303,11 +303,11 @@ al-go-rytm wykonuj¦
 <./graphs/insertion_sort_v.png, id=51, 462.528pt x 346.896pt>
 File: ./graphs/insertion_sort_v.png Graphic file (type png)
 <use ./graphs/insertion_sort_v.png>
-Package pdftex.def Info: ./graphs/insertion_sort_v.png  used on input line 102.
+Package pdftex.def Info: ./graphs/insertion_sort_v.png  used on input line 104.
 
 (pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
 
-Overfull \hbox (6.91296pt too wide) in paragraph at lines 104--105
+Overfull \hbox (6.91296pt too wide) in paragraph at lines 106--107
 \T1/cmr/m/n/10 W przy-padku takie uªo»e-nia danych, mo»na za-uwa»y¢ analogi¦ do
  wy»ej opisanego
  []
@@ -316,17 +316,17 @@ Overfull \hbox (6.91296pt too wide) in paragraph at lines 104--105
 <./graphs/insertion_sort_g.png, id=58, 462.528pt x 346.896pt>
 File: ./graphs/insertion_sort_g.png Graphic file (type png)
 <use ./graphs/insertion_sort_g.png>
-Package pdftex.def Info: ./graphs/insertion_sort_g.png  used on input line 108.
+Package pdftex.def Info: ./graphs/insertion_sort_g.png  used on input line 110.
 
 (pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
 
-Overfull \hbox (1.19324pt too wide) in paragraph at lines 110--111
+Overfull \hbox (1.19324pt too wide) in paragraph at lines 112--113
 \T1/cmr/m/n/10 Dla uporz¡d-kowa-nia ros-n¡cego al-go-prytm sor-towa-nia przez w
 staw-ianie wykonuj¦
  []
 
 
-Overfull \hbox (5.95605pt too wide) in paragraph at lines 110--111
+Overfull \hbox (5.95605pt too wide) in paragraph at lines 112--113
 \T1/cmr/m/n/10 si¦ szy-bko. W takim wypadku jego zªo»ono±¢ jest opisy-wana prze
 z $\OML/cmm/m/it/10 O\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 n\OT1/cmr/m/n/10 )$\T1/c
 mr/m/n/10 , poniewa»
@@ -335,18 +335,18 @@ mr/m/n/10 , poniewa»
 <./graphs/insertion_sort_l.png, id=59, 462.528pt x 346.896pt>
 File: ./graphs/insertion_sort_l.png Graphic file (type png)
 <use ./graphs/insertion_sort_l.png>
-Package pdftex.def Info: ./graphs/insertion_sort_l.png  used on input line 114.
+Package pdftex.def Info: ./graphs/insertion_sort_l.png  used on input line 116.
 
 (pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
 [8 <./graphs/insertion_sort_g.png> <./graphs/insertion_sort_l.png>]
 <./graphs/insertion_sort_c.png, id=65, 462.528pt x 346.896pt>
 File: ./graphs/insertion_sort_c.png Graphic file (type png)
 <use ./graphs/insertion_sort_c.png>
-Package pdftex.def Info: ./graphs/insertion_sort_c.png  used on input line 120.
+Package pdftex.def Info: ./graphs/insertion_sort_c.png  used on input line 122.
 
 (pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
 
-Overfull \hbox (0.43417pt too wide) in paragraph at lines 122--123
+Overfull \hbox (0.43417pt too wide) in paragraph at lines 124--125
 \T1/cmr/m/n/10 Jest to przy-padek ana-log-iczny do wst¦p-nego posor-towa-nia ro
 s-n¡cego. Poprawnie
  []
@@ -354,14 +354,14 @@ s-n¡cego. Poprawnie
 <./graphs/insertion_sort_r.png, id=66, 462.528pt x 346.896pt>
 File: ./graphs/insertion_sort_r.png Graphic file (type png)
 <use ./graphs/insertion_sort_r.png>
-Package pdftex.def Info: ./graphs/insertion_sort_r.png  used on input line 126.
+Package pdftex.def Info: ./graphs/insertion_sort_r.png  used on input line 128.
 
 (pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
 [9 <./graphs/insertion_sort_c.png>] [10 <./graphs/insertion_sort_r.png>]
 <./graphs/heap_sort_gather.png, id=75, 462.528pt x 346.896pt>
 File: ./graphs/heap_sort_gather.png Graphic file (type png)
 <use ./graphs/heap_sort_gather.png>
-Package pdftex.def Info: ./graphs/heap_sort_gather.png  used on input line 150.
+Package pdftex.def Info: ./graphs/heap_sort_gather.png  used on input line 152.
 
 (pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
 
@@ -369,38 +369,38 @@ Package pdftex.def Info: ./graphs/heap_sort_gather.png  used on input line 150.
 <./graphs/heap_sort_a.png, id=80, 462.528pt x 346.896pt>
 File: ./graphs/heap_sort_a.png Graphic file (type png)
 <use ./graphs/heap_sort_a.png>
-Package pdftex.def Info: ./graphs/heap_sort_a.png  used on input line 156.
+Package pdftex.def Info: ./graphs/heap_sort_a.png  used on input line 158.
 (pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
 <./graphs/heap_sort_v.png, id=81, 462.528pt x 346.896pt>
 File: ./graphs/heap_sort_v.png Graphic file (type png)
 <use ./graphs/heap_sort_v.png>
-Package pdftex.def Info: ./graphs/heap_sort_v.png  used on input line 161.
+Package pdftex.def Info: ./graphs/heap_sort_v.png  used on input line 163.
 (pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
  [12 <./graphs/heap_sort_gather.png> <./graphs/heap_sort_a.png>]
 <./graphs/heap_sort_g.png, id=87, 462.528pt x 346.896pt>
 File: ./graphs/heap_sort_g.png Graphic file (type png)
 <use ./graphs/heap_sort_g.png>
-Package pdftex.def Info: ./graphs/heap_sort_g.png  used on input line 166.
+Package pdftex.def Info: ./graphs/heap_sort_g.png  used on input line 168.
 (pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
 <./graphs/heap_sort_l.png, id=88, 462.528pt x 346.896pt>
 File: ./graphs/heap_sort_l.png Graphic file (type png)
 <use ./graphs/heap_sort_l.png>
-Package pdftex.def Info: ./graphs/heap_sort_l.png  used on input line 171.
+Package pdftex.def Info: ./graphs/heap_sort_l.png  used on input line 173.
 (pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
  [13 <./graphs/heap_sort_v.png> <./graphs/heap_sort_g.png>]
 <./graphs/heap_sort_c.png, id=95, 462.528pt x 346.896pt>
 File: ./graphs/heap_sort_c.png Graphic file (type png)
 <use ./graphs/heap_sort_c.png>
-Package pdftex.def Info: ./graphs/heap_sort_c.png  used on input line 176.
+Package pdftex.def Info: ./graphs/heap_sort_c.png  used on input line 178.
 (pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
 <./graphs/heap_sort_r.png, id=96, 462.528pt x 346.896pt>
 File: ./graphs/heap_sort_r.png Graphic file (type png)
 <use ./graphs/heap_sort_r.png>
-Package pdftex.def Info: ./graphs/heap_sort_r.png  used on input line 181.
+Package pdftex.def Info: ./graphs/heap_sort_r.png  used on input line 183.
 (pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
  [14 <./graphs/heap_sort_l.png> <./graphs/heap_sort_c.png>] [15 <./graphs/heap_
 sort_r.png>]
-Overfull \hbox (4.49799pt too wide) in paragraph at lines 192--194
+Overfull \hbox (4.49799pt too wide) in paragraph at lines 194--196
 \T1/cmr/m/n/10 która wynika z rozu-mowa-nia i», pier-wszy zbiór mo»na podzieli¢
  na dwa podzbiory,
  []
@@ -409,51 +409,51 @@ Overfull \hbox (4.49799pt too wide) in paragraph at lines 192--194
 <./graphs/quick_sort_a.png, id=109, 455.35533pt x 255.93361pt>
 File: ./graphs/quick_sort_a.png Graphic file (type png)
 <use ./graphs/quick_sort_a.png>
-Package pdftex.def Info: ./graphs/quick_sort_a.png  used on input line 225.
+Package pdftex.def Info: ./graphs/quick_sort_a.png  used on input line 227.
 (pdftex.def)             Requested size: 227.62204pt x 127.93524pt.
 <./graphs/quick_sort_v.png, id=110, 455.35533pt x 255.93361pt>
 File: ./graphs/quick_sort_v.png Graphic file (type png)
 <use ./graphs/quick_sort_v.png>
-Package pdftex.def Info: ./graphs/quick_sort_v.png  used on input line 231.
+Package pdftex.def Info: ./graphs/quick_sort_v.png  used on input line 233.
 (pdftex.def)             Requested size: 227.62204pt x 127.93524pt.
  [17 <./graphs/quick_sort_a.png (PNG copy)>]
 <./graphs/quick_sort_g.png, id=114, 455.35533pt x 255.93361pt>
 File: ./graphs/quick_sort_g.png Graphic file (type png)
 <use ./graphs/quick_sort_g.png>
-Package pdftex.def Info: ./graphs/quick_sort_g.png  used on input line 237.
+Package pdftex.def Info: ./graphs/quick_sort_g.png  used on input line 239.
 (pdftex.def)             Requested size: 227.62204pt x 127.93524pt.
 <./graphs/quick_sort_l.png, id=115, 455.35533pt x 255.93361pt>
 File: ./graphs/quick_sort_l.png Graphic file (type png)
 <use ./graphs/quick_sort_l.png>
-Package pdftex.def Info: ./graphs/quick_sort_l.png  used on input line 243.
+Package pdftex.def Info: ./graphs/quick_sort_l.png  used on input line 245.
 (pdftex.def)             Requested size: 227.62204pt x 127.93524pt.
  [18 <./graphs/quick_sort_v.png (PNG copy)> <./graphs/quick_sort_g.png (PNG cop
 y)>]
 <./graphs/quick_sort_c.png, id=119, 455.35533pt x 255.93361pt>
 File: ./graphs/quick_sort_c.png Graphic file (type png)
 <use ./graphs/quick_sort_c.png>
-Package pdftex.def Info: ./graphs/quick_sort_c.png  used on input line 249.
+Package pdftex.def Info: ./graphs/quick_sort_c.png  used on input line 251.
 (pdftex.def)             Requested size: 227.62204pt x 127.93524pt.
 <./graphs/quick_sort_r.png, id=120, 455.35533pt x 255.93361pt>
 File: ./graphs/quick_sort_r.png Graphic file (type png)
 <use ./graphs/quick_sort_r.png>
-Package pdftex.def Info: ./graphs/quick_sort_r.png  used on input line 255.
+Package pdftex.def Info: ./graphs/quick_sort_r.png  used on input line 257.
 (pdftex.def)             Requested size: 227.62204pt x 127.93524pt.
  [19 <./graphs/quick_sort_l.png (PNG copy)> <./graphs/quick_sort_c.png (PNG cop
 y)>] [20 <./graphs/quick_sort_r.png (PNG copy)>]
 <./graphs/shell_sort_gather.png, id=128, 462.528pt x 346.896pt>
 File: ./graphs/shell_sort_gather.png Graphic file (type png)
 <use ./graphs/shell_sort_gather.png>
-Package pdftex.def Info: ./graphs/shell_sort_gather.png  used on input line 278
+Package pdftex.def Info: ./graphs/shell_sort_gather.png  used on input line 280
 .
 (pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
 <./graphs/shell_sort_a.png, id=129, 462.528pt x 346.896pt>
 File: ./graphs/shell_sort_a.png Graphic file (type png)
 <use ./graphs/shell_sort_a.png>
-Package pdftex.def Info: ./graphs/shell_sort_a.png  used on input line 285.
+Package pdftex.def Info: ./graphs/shell_sort_a.png  used on input line 287.
 (pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
  [21 <./graphs/shell_sort_gather.png>]
-Overfull \hbox (2.60031pt too wide) in paragraph at lines 287--288
+Overfull \hbox (2.60031pt too wide) in paragraph at lines 289--290
 \T1/cmr/m/n/10 nanie porz¡d-kowa-nia zbioru uªo»onego w sposób male-j¡cy. Staªo
  si¦ tak poniewa»
  []
@@ -461,29 +461,29 @@ Overfull \hbox (2.60031pt too wide) in paragraph at lines 287--288
 <./graphs/shell_sort_v.png, id=136, 462.528pt x 346.896pt>
 File: ./graphs/shell_sort_v.png Graphic file (type png)
 <use ./graphs/shell_sort_v.png>
-Package pdftex.def Info: ./graphs/shell_sort_v.png  used on input line 291.
+Package pdftex.def Info: ./graphs/shell_sort_v.png  used on input line 293.
 (pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
 <./graphs/shell_sort_g.png, id=137, 462.528pt x 346.896pt>
 File: ./graphs/shell_sort_g.png Graphic file (type png)
 <use ./graphs/shell_sort_g.png>
-Package pdftex.def Info: ./graphs/shell_sort_g.png  used on input line 297.
+Package pdftex.def Info: ./graphs/shell_sort_g.png  used on input line 299.
 (pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
 [22 <./graphs/shell_sort_a.png> <./graphs/shell_sort_v.png>]
 <./graphs/shell_sort_l.png, id=143, 462.528pt x 346.896pt>
 File: ./graphs/shell_sort_l.png Graphic file (type png)
 <use ./graphs/shell_sort_l.png>
-Package pdftex.def Info: ./graphs/shell_sort_l.png  used on input line 303.
+Package pdftex.def Info: ./graphs/shell_sort_l.png  used on input line 305.
 (pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
 <./graphs/shell_sort_c.png, id=144, 462.528pt x 346.896pt>
 File: ./graphs/shell_sort_c.png Graphic file (type png)
 <use ./graphs/shell_sort_c.png>
-Package pdftex.def Info: ./graphs/shell_sort_c.png  used on input line 309.
+Package pdftex.def Info: ./graphs/shell_sort_c.png  used on input line 311.
 (pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
  [23 <./graphs/shell_sort_g.png> <./graphs/shell_sort_l.png>]
 <./graphs/shell_sort_r.png, id=150, 462.528pt x 346.896pt>
 File: ./graphs/shell_sort_r.png Graphic file (type png)
 <use ./graphs/shell_sort_r.png>
-Package pdftex.def Info: ./graphs/shell_sort_r.png  used on input line 315.
+Package pdftex.def Info: ./graphs/shell_sort_r.png  used on input line 317.
 (pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
  [24 <./graphs/shell_sort_c.png> <./graphs/shell_sort_r.png>] (./sprawozdanie.t
 oc [25])
@@ -494,7 +494,7 @@ oc [25])
 Here is how much of TeX's memory you used:
  2805 strings out of 494586
  38480 string characters out of 6177801
- 96561 words of memory out of 5000000
+ 96630 words of memory out of 5000000
  6358 multiletter control sequences out of 15000+600000
  16908 words of font info for 49 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -504,8 +504,8 @@ r/jknappen/ec/ecbx1000.600pk> </home/piotr/.texlive2018/texmf-var/fonts/pk/ljfo
 ur/jknappen/ec/ecrm1000.600pk> </home/piotr/.texlive2018/texmf-var/fonts/pk/ljf
 our/jknappen/ec/ecbx1200.600pk> </home/piotr/.texlive2018/texmf-var/fonts/pk/lj
 four/jknappen/ec/ecbx1440.600pk> </home/piotr/.texlive2018/texmf-var/fonts/pk/l
-jfour/jknappen/ec/ecrm1200.600pk> </home/piotr/.texlive2018/texmf-var/fonts/pk/
-ljfour/jknappen/ec/ecrm1728.600pk></usr/share/texlive/texmf-dist/fonts/type1/pu
+jfour/jknappen/ec/ecrm1728.600pk> </home/piotr/.texlive2018/texmf-var/fonts/pk/
+ljfour/jknappen/ec/ecrm1200.600pk></usr/share/texlive/texmf-dist/fonts/type1/pu
 blic/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
 s/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
@@ -514,9 +514,9 @@ r10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb>
 are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/te
 xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/t
 exmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on sprawozdanie.pdf (26 pages, 1146151 bytes).
+Output written on sprawozdanie.pdf (26 pages, 1134791 bytes).
 PDF statistics:
- 419 PDF objects out of 1000 (max. 8388607)
+ 439 PDF objects out of 1000 (max. 8388607)
  111 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  171 words of extra memory for PDF output out of 10000 (max. 10000000)
